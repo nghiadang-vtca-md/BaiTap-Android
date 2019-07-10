@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<transitionSet
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:transitionOrdering="together">
+
+    <fade
+        android:duration="2000"
+        android:fadingMode="fade_in_out">
+        <targets>
+            <target
+                android:targetId="@+id/button3">
+s            </target>
+        </targets>
+    </fade>
+
+
+    <changeBounds
+        android:duration="2000"
+        android:interpolator="@android:anim/accelerate_interpolator">
+    </changeBounds>
+
+</transitionSet>
