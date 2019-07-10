@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MenuExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="redString">Red</string>
+    <string name="blueString">Blue</string>
+    <string name="yellowString">Yellow</string>
+    <string name="greenString">Green</string>
+</resources>
