@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TransitionDemo</string>
+    <string name="buttonString">Button</string>
+</resources>
