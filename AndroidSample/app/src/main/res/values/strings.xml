@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonstring">Button</string>
+    <string name="button2string">Button 2</string>
+    <string name="textview1string">TextView</string>
+    <string name="textview2string">TextView</string>
+    <string name="textview3string">TextView</string>
+    <string name="button1string">Button</string>
+    <string name="button22string">Button</string>
+    <string name="button3string">Button</string>
+</resources>
