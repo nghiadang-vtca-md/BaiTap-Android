@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PinchExample</string>
+    <string name="myTextView">TextView</string>
+</resources>
