@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppIndexing</string>
+    <string name="find">Find</string>
+    <string name="id">ID</string>
+    <string name="add">Add</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="delete">Delete</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://www.example.com/.well-known/assetlinks.json\" }]</string>
+</resources>
