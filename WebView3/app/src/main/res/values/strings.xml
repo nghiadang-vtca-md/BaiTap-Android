@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebView3</string>
+    <string name="action_settings">Settings</string>
+    <string name="print_string">Print</string>
+</resources>
